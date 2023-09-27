@@ -1,5 +1,1 @@
 # shinhan-backendPractice
-
----
-
-hello

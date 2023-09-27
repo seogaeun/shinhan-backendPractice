@@ -1,5 +1,6 @@
 spring:
   datasource:
+    # localhost??? rds??? ??? ??? ? ??....
     url: jdbc:mysql://localhost:3306/boot_test?useSSL=false&allowPublicKeyRetrieval=true&useUnicode=true&serverTimezone=Asia/Seoul
     username:
     password:
